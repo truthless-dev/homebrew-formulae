@@ -1,8 +1,8 @@
 class Define < Formula
   desc "Get definitions of English words from the command line"
   homepage "https://github.com/truthless-dev/define"
-  url "https://github.com/truthless-dev/define/releases/download/1.0.2/define_1.0.2_macOS.tar.gz"
-  sha256 "5f1c5d829d3b06bec04fde2ed7f5db65ae4dd77042af0ce1c73c1b19daf0ae8e"
+  url "https://github.com/truthless-dev/define/releases/download/2.0.0/Define_2.0.0_macOS.tar.gz"
+  sha256 "0329a237c067f902a6050f192c65b56359e9838cb821b3d9a668be0116be3ede"
   license "MIT"
 
   def install
